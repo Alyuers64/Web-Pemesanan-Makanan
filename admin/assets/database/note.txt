@@ -1,0 +1,21 @@
+username = Putri
+password = 20001
+
+           
+ password =     20304  
+ username =     Lesti Egi Karlina  
+
+ password =     20305  
+ username =    Muhammad Rijal   
+
+ password =     20306  
+ username =    Andre Setiawan  
+
+ password =     20308  
+ username =    Ripaldo Alyura  
+
+  password =    20309  
+ username =    Richo Albert Tio   
+
+ password =     20310  
+ username =    kiki       
